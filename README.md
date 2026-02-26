@@ -1,4 +1,4 @@
-Relational Database Watermarking
+# Relational Database Watermarking
 Bachelor’s Thesis Project | Shahid Beheshti University (2013-2014) 
 
 Project Overview
